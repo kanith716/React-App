@@ -20,6 +20,8 @@ import React, { Component } from 'react'
 // return  this.state.isValid ? <h2>Hi iam good</h2> : <h2>Hi i am not Wealthy</h2>
 // variable decalring
 // short circut method 
+
+
 //return  this.state.isValid && <h2>I am here</h2>
 
 export default Conditional
