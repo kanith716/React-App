@@ -11,7 +11,7 @@ import React, { Component } from 'react'
     }
     
   render() {
-    return  this.state.isValid ? <h2>Hi iam good</h2> : <h2>Hi i am not Wealthy</h2>
+    return  this.state.isValid ? <h2>Hi iam good</h2> : <h2>Hi i am not Healthy</h2>
   }
 }
 
