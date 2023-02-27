@@ -6,7 +6,7 @@ function MultipleHooksCount() {
 
   return (
     <div>
-      <button>{count}</button>
+      <button>{count}</button> 
       <button onClick={() => setCount(prevCount => prevCount  + 1)}>Increment </button>
       <button onClick={() => setCount(prevCount => prevCount - 1)  }>Decrement</button>
       <button onClick={() => setCount(initialCount)}>Reset</button>
